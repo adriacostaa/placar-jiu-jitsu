@@ -1,2 +1,2 @@
 # placar-jiu-jitsu
-placar simples de jiujitsu-
+placar simples de jiu-jitsu
